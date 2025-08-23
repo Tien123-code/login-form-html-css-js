@@ -137,6 +137,7 @@ function Validator(options) {
             
             Array.from(inputElements).forEach(function(inputElement) {
                inputElement.onblur = function() {
+                    console.log(inputElement);
                     Validate(inputElement, rule);
                 }
                 // Xử lý trường hợp khi người dùng nhập vào ô input
