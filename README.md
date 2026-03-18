@@ -1,1 +1,2 @@
-Khi đăng nhập không thành kí không thành công thì sẽ báo lỗi, đăng kí hoàn thành thì sẽ có dữ liệu trả về trong inspect
+Khi đăng kí fail thì sẽ báo lỗi, đăng kí hoàn thành thì sẽ có dữ liệu trả về trong inspect ( hãy thử tải và test nó nhé! )
+future: Save information of guests in console by type of objectarray
